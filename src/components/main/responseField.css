@@ -1,0 +1,7 @@
+.ResponseField {
+  margin: 2em;
+  padding: 0 1em;
+  text-align: left;
+  border: 1px solid black;
+  border-radius: 10px;
+}

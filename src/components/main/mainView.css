@@ -1,0 +1,35 @@
+.MainView {
+  display: flex;
+  flex-direction: column;
+}
+
+.MainView h1 {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: lighter;
+  font-size: 1.5em;
+  margin: 2em auto 0 auto;
+}
+
+.MainView-addMessageButton{
+  margin: 2em auto 0 auto;
+  height: 3vh;
+  width: 8vw;
+  font-size: 1.1em;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.MainView-clearButton {
+  margin: 1em 5em 0 auto;
+  height: 3vh;
+  width: 8vw;
+  font-size: 1.1em;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.MainView-promptButton {
+  margin: 2em auto 0 auto;
+  height: 3vh;
+  width: 8vw;
+  font-size: 1.1em;
+  font-family: 'Roboto Mono', monospace;
+}
